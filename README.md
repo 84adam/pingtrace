@@ -1,5 +1,11 @@
-# pingtrace
-Ubuntu network diagnostic script
+# pingtrace.sh -- Ubuntu network diagnostic script
+
+Tested on: Ubuntu 16.04 and Ubuntu 18.04
+
+Requirements:
+
+- `traceroute` utility
+- root/sudo access
 
 Instructions:
 
